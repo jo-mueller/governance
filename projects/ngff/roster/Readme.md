@@ -119,7 +119,15 @@ The **OME-owned implementations** operate as part of the **NGFF Project**, an OM
 
 ---
 
-## **7. Maintenance of This Document**
+## **7. Expansion of Governed Repositories**
+As the NGFF Project grows, additional repositories or projects may be brought under the governance of this charter. When new projects are added:
+
+Existing Maintainers: The maintainers of the newly governed project repositories retain their Maintainer or Admin roles, ensuring continuity and expertise in the project's development.
+Coordination with PSC: While these maintainers retain their day-to-day autonomy, they agree to coordinate strategic decisions (e.g., major architectural changes, alignment with the NGFF Specification, or cross-project dependencies) with the Project Steering Committee (PSC).
+Lazy Coordination: For day-to-day operations, maintainers of newly governed projects will follow the lazy consensus model outlined in this charter, ensuring efficient collaboration while maintaining alignment with the broader NGFF Project.
+This approach ensures that new projects integrate smoothly into the OME-owned implementations while preserving their existing momentum and expertise.
+
+## **8. Maintenance of This Document**
 
 This roster is maintained by the project Maintainers and updated as needed to reflect:
 - Changes in participation.
