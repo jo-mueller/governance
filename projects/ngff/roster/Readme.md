@@ -43,10 +43,10 @@ Individuals with the *Core Dev* role support the organization and flow of contri
 This role reflects consistent contribution and familiarity with project practices.
 
 **Current Core Dev Members:**
-- Wouter-Michiel Vierdag (Cellonautica.ai)
-- Juan-Nunez Iglesias (Image.coop)
-- Draga Concila Pop (Image.coop)
-- Joel Lüthi (Biovision center)
+- [Wouter-Michiel Vierdag (Cellonautica.ai)](https://github.com/melonora)
+- [Juan-Nunez Iglesias (Image.coop)](https://github.com/jni)
+- [Draga Concila Pop (Image.coop)](https://github.com/dragadoncila)
+- [Joel Lüthi (Biovision center)](https://github.com/jluethi)
 
 ---
 
@@ -60,9 +60,9 @@ Individuals with the *Maintain* role are responsible for the ongoing development
 This role corresponds to a **maintainer-level responsibility**, requiring sustained engagement and stewardship of the project.
 
 **Current Maintainers:**
-- Will Moore (University of Dundee)
-- Johannes Soltwedel (German BioImaging e.V.)
-- Kevin Yamauchi (Image.coop)
+- [Will Moore (University of Dundee)](https://github.com/will-moore)
+- [Johannes Soltwedel (German BioImaging e.V.)](https://github.com/jo-mueller)
+- [Kevin Yamauchi (Image.coop)](https://github.com/kevinyamauchi)
 
 ---
 
@@ -77,8 +77,8 @@ Administrative authority reflects responsibility for the long-term success and s
 Admin responsibilities are assigned sparingly and typically overlap with experienced maintainers or members coordinating across the broader OME ecosystem. While many Administrators emerge through sustained technical contribution, the project may also appoint individuals whose responsibilities primarily relate to leadership, stewardship, funding, operations, community coordination, or institutional commitments.
 
 **Current Admins:**
-- Jean-Marie Burel (University of Dundee)
-- Josh Moore (German BioImaging e.V.)
+- [Jean-Marie Burel (University of Dundee)](https://github.com/jburel)
+- [Josh Moore (German BioImaging e.V.)](https://github.com/joshmoore)
 
 ---
 
