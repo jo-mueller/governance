@@ -104,7 +104,11 @@ As an OME Registered Project, the **OME-owned implementations** of the **NGFF Pr
 
 ## Current Implementations
 
-The **OME-owned implementations** currently focus on Python-based tools and libraries that support the **NGFF Specification**. These include:
+The **OME-owned implementations** contain the following subgroups:
+
+### OME-Zarr in Python
+
+The subgroup focuses on Python-based tools and libraries that support the **NGFF Specification**. These include:
 
 - [ome-zarr-py](https://github.com/ome/ome-zarr-py/)
 - [ome-zarr-models-py](https://github.com/ome-zarr-models/ome-zarr-models-py/)

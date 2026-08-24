@@ -42,14 +42,6 @@ Individuals with the *Core Dev* role support the organization and flow of contri
 
 This role reflects consistent contribution and familiarity with project practices.
 
-**Current Core Dev Members:**
-- [Wouter-Michiel Vierdag (Cellonautica.ai)](https://github.com/melonora)
-- [Juan-Nunez Iglesias (Image.coop)](https://github.com/jni)
-- [Draga Concila Pop (Image.coop)](https://github.com/dragadoncila)
-- [Joel Lüthi (Biovision center)](https://github.com/jluethi)
-
----
-
 ### 3.2 Maintainer
 Individuals with the *Maintain* role are responsible for the ongoing development and direction of the **OME-owned implementations**. This includes:
 - Reviewing and merging pull requests.
@@ -58,13 +50,6 @@ Individuals with the *Maintain* role are responsible for the ongoing development
 - Facilitating discussions and decision-making.
 
 This role corresponds to a **maintainer-level responsibility**, requiring sustained engagement and stewardship of the project.
-
-**Current Maintainers:**
-- [Will Moore (University of Dundee)](https://github.com/will-moore)
-- [Johannes Soltwedel (German BioImaging e.V.)](https://github.com/jo-mueller)
-- [Kevin Yamauchi (Image.coop)](https://github.com/kevinyamauchi)
-
----
 
 ### 3.3 Admin
 Administrative authority reflects responsibility for the long-term success and sustainability of the **OME-owned implementations**. Individuals with *Admin* access provide structural and operational support for the repositories and project. This includes:
@@ -76,9 +61,29 @@ Administrative authority reflects responsibility for the long-term success and s
 
 Admin responsibilities are assigned sparingly and typically overlap with experienced maintainers or members coordinating across the broader OME ecosystem. While many Administrators emerge through sustained technical contribution, the project may also appoint individuals whose responsibilities primarily relate to leadership, stewardship, funding, operations, community coordination, or institutional commitments.
 
-**Current Admins:**
-- [Jean-Marie Burel (University of Dundee)](https://github.com/jburel)
-- [Josh Moore (German BioImaging e.V.)](https://github.com/joshmoore)
+---
+
+## 3.4 Current Roster
+
+### Subgroups
+
+The following table summarizes the current roster of contributors and maintainers for the **OME-owned implementations** of the **NGFF Project**, organized by subgroup.
+
+| Role | OME-Zarr in Python |
+|:-----|:-------------------|
+| Admin | [Jean-Marie Burel](https://github.com/jburel), [Josh Moore](https://github.com/joshmoore) |
+| Maintainer | [Will Moore](https://github.com/will-moore), [Johannes Soltwedel](https://github.com/jo-mueller), [Kevin Yamauchi](https://github.com/kevinyamauchi) |
+| Contributor (Core Dev) | [Wouter-Michiel Vierdag](https://github.com/melonora), [Juan-Nunez Iglesias](https://github.com/jni), [Draga Concila Pop](https://github.com/dragadoncila), [Joel Lüthi](https://github.com/jluethi) |
+
+
+The following table summarizes the repositories currently governed by this charter,
+along with their respective responsibilities and governance structure.
+
+| Repository | Governance |
+|:-----------|:------|
+| [ome-zarr-py](https://github.com/ome/ome-zarr-py/) | All (see above) |
+| [ome-zarr-models-py](https://github.com/ome-zarr-models/ome-zarr-models-py/) | All (see above) |
+| [napari-ome-zarr](https://github.com/ome/napari-ome-zarr/) | All (see above) |
 
 ---
 
