@@ -1,6 +1,6 @@
-# **OME NGFF Project Implementations — Roster**
+# OME NGFF Project Implementations — Roster
 
-## **1. Overview**
+## 1. Overview
 
 The **OME-owned implementations** of the **NGFF (Next-Generation File Formats) Project** are a unified effort to develop and maintain software libraries, tools, and applications that enable the adoption and use of the **NGFF Specification**. This roster documents the current contributors and maintainers of the **OME-owned implementations**, along with their roles and responsibilities.
 
@@ -8,9 +8,9 @@ Participation in this roster reflects **sustained and substantial contributions*
 
 ---
 
-## **2. Scope of the Implementations**
+## 2. Scope of the Implementations
 
-### **Primary Focus**
+### Primary Focus
 The **OME-owned implementations** are responsible for developing and maintaining tools and libraries that support the **NGFF Specification**. This includes:
 
 - **Key Responsibilities:**
@@ -27,11 +27,11 @@ The **OME-owned implementations** are responsible for developing and maintaining
 
 ---
 
-## **3. Roles and Responsibilities**
+## 3. Roles and Responsibilities
 
 Roles within the **OME-owned implementations** are aligned with the GitHub permissions model and reflect increasing levels of responsibility and trust. Assignment of roles is based on **sustained and substantial contributions**, as well as demonstrated reliability in supporting the project.
 
-### **3.1 Core Dev**
+### 3.1 Core Dev
 Individuals with the *Core Dev* role support the organization and flow of contributions by:
 - Reviewing and labeling issues and pull requests.
 - Helping prioritize work and identify duplicates.
@@ -50,7 +50,7 @@ This role reflects consistent contribution and familiarity with project practice
 
 ---
 
-### **3.2 Maintainer**
+### 3.2 Maintainer
 Individuals with the *Maintain* role are responsible for the ongoing development and direction of the **OME-owned implementations**. This includes:
 - Reviewing and merging pull requests.
 - Guiding technical direction and roadmap.
@@ -66,7 +66,7 @@ This role corresponds to a **maintainer-level responsibility**, requiring sustai
 
 ---
 
-### **3.3 Admin**
+### 3.3 Admin
 Administrative authority reflects responsibility for the long-term success and sustainability of the **OME-owned implementations**. Individuals with *Admin* access provide structural and operational support for the repositories and project. This includes:
 
 - Managing repository settings, permissions, and integrations.
@@ -82,7 +82,7 @@ Admin responsibilities are assigned sparingly and typically overlap with experie
 
 ---
 
-## **4. Membership Expectations**
+## 4. Membership Expectations
 
 Membership in the roles outlined above is open to individuals who wish to contribute. Becoming part of the roster (e.g., Core Dev or Maintainer) is based on:
 - Sustained and meaningful contributions.
@@ -99,7 +99,7 @@ To ensure continued progress:
 
 ---
 
-## **5. Decision-Making**
+## 5. Decision-Making
 
 Decisions within the **OME-owned implementations** are made through:
 - Open discussion and consensus where possible.
@@ -109,7 +109,7 @@ Maintainers are responsible for ensuring that decisions are made in a timely and
 
 ---
 
-## **6. Relationship to NGFF and OME Governance**
+## 6. Relationship to NGFF and OME Governance
 
 The **OME-owned implementations** operate as part of the **NGFF Project**, an OME Registered Project (ORP). They align with the broader governance framework of the **NGFF Project** and the OME ecosystem.
 
@@ -119,7 +119,7 @@ The **OME-owned implementations** operate as part of the **NGFF Project**, an OM
 
 ---
 
-## **7. Expansion of Governed Repositories**
+## 7. Expansion of Governed Repositories
 As the NGFF Project grows, additional repositories or projects may be brought under the governance of this charter. When new projects are added:
 
 Existing Maintainers: The maintainers of the newly governed project repositories retain their Maintainer or Admin roles, ensuring continuity and expertise in the project's development.
@@ -127,7 +127,7 @@ Coordination with PSC: While these maintainers retain their day-to-day autonomy,
 Lazy Coordination: For day-to-day operations, maintainers of newly governed projects will follow the lazy consensus model outlined in this charter, ensuring efficient collaboration while maintaining alignment with the broader NGFF Project.
 This approach ensures that new projects integrate smoothly into the OME-owned implementations while preserving their existing momentum and expertise.
 
-## **8. Maintenance of This Document**
+## 8. Maintenance of This Document
 
 This roster is maintained by the project Maintainers and updated as needed to reflect:
 - Changes in participation.

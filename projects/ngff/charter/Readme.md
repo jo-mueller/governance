@@ -1,6 +1,6 @@
 # Charter for the NGFF Project Implementations
 
-## **Overview**
+## Overview
 
 This document formalizes the governance for the **OME-owned implementations** of the **NGFF (Next-Generation File Formats) Project**, an OME Registered Project (ORP). The **NGFF Project** encompasses two distinct but closely related components:
 
@@ -14,19 +14,19 @@ This document outlines the governance structure for the **OME-owned implementati
 
 ---
 
-## **Aspiration to Completeness**
+## Aspiration to Completeness
 
 The **OME-owned implementations** aspire to support every feature laid out by the **core NGFF Specification document**. The **Maintainers** and members of the **Project Steering Committee (PSC)** will meet periodically to review progress, ensure alignment with the **NGFF Specification**, and address any gaps or challenges in achieving this goal.
 
 ---
 
-## **Roles and Responsibilities**
+## Roles and Responsibilities
 
-### **Users**
+### Users
 
 Users are members of the community who utilize the **OME-owned implementations** of the **NGFF Project**. Their contributions—such as providing feedback, reporting bugs, and evangelizing the project—are essential for shaping the purpose and direction of the implementations.
 
-### **Contributors**
+### Contributors
 
 Contributors are community members who engage directly with the **OME-owned implementations** in concrete ways, such as:
 
@@ -41,9 +41,9 @@ Requirements for code and documentation contributions are described in the OME P
 
 ---
 
-## **Project Steering Committee (PSC)**
+## Project Steering Committee (PSC)
 
-### **Function**
+### Function
 The **Project Steering Committee (PSC)** serves as the governing body for the **OME-owned implementations** of the **NGFF Project**. It:
 - Ensures alignment with the **NGFF Specification** and the broader OME ecosystem.
 - Resolves conflicts or issues related to the implementations.
@@ -51,32 +51,32 @@ The **Project Steering Committee (PSC)** serves as the governing body for the **
 - Manages administrative actions (e.g., adding/removing members) at the **project level**.
 - Meets periodically to review the status of the **OME-owned implementations** as **reference implementations** and ensure progress toward supporting all features of the **NGFF Specification**.
 
-### **Authority**
+### Authority
 - The **PSC** is self-governing, and its membership is not overseen by the OME Management Group (OMG).
 - The **PSC** may intervene in decisions if they conflict with the broader **NGFF Project** or OME ecosystem.
 - The **PSC** ensures that the **OME-owned implementations** remain compatible with the **NGFF Specification**, but does not coordinate directly with the **NGFF Editorial Board** for day-to-day operations or governance.
 
-### **Membership**
+### Membership
 - **Merit-Based**: Any contributor to the **OME-owned implementations** is eligible to join the **PSC**.
   - **Nomination**: Existing **PSC** members can nominate new members based on sustained, quality contributions to the **OME-owned implementations**. Approval is subject to vote by the existing **PSC** (ideally consensus, but at minimum majority approval).
   - **Removal**: Inactive members can be removed via a majority vote of the existing **PSC**.
 
 The **PSC** is currently defined as anyone with a `Maintainer` role in the **OME-owned implementations** as defined in the [NGFF Project roster](../roster/).
 
-### **PSC Chair**
+### PSC Chair
 - The **Chair** acts as a coordinator and facilitator for the **PSC**.
 - The Chair holds no additional authority over other **PSC** members.
 - The current Chair is **[To Be Determined]**. The Chair role may be temporarily or permanently reassigned by agreement within the **PSC**, or by directive from the OMG if necessary.
 
 ---
 
-## **Decision Making Process**
+## Decision Making Process
 
-### **Consensus-Seeking and Voting**
+### Consensus-Seeking and Voting
 
 The **OME-owned implementations** aim for **consensus** among **PSC** members for all decisions. If consensus cannot be reached after discussion, decisions are resolved by a **majority vote** of the **PSC**.
 
-#### **Discussion Venues**
+#### Discussion Venues
 Discussions primarily occur in the following venues, with a preference for public transparency:
 
 1. **Publicly**: In GitHub pull requests, issues, and discussions.
@@ -84,7 +84,7 @@ Discussions primarily occur in the following venues, with a preference for publi
 3. **Semi-Privately**: In dedicated **NGFF Project** meetings, with minutes accessible to members of the OME Project.
 4. **Privately**: Via Slack or ad hoc meetings, as needed. Summaries of private discussions must be shared publicly.
 
-### **Lazy Consensus for Day-to-Day Operations**
+### Lazy Consensus for Day-to-Day Operations
 
 Lazy consensus is used for most day-to-day decisions within the **OME-owned implementations**, allowing contributions to proceed efficiently.
 
@@ -96,13 +96,13 @@ A **Core Developer** or **Maintainer** may request additional reviews from indiv
 
 ---
 
-## **Code of Conduct**
+## Code of Conduct
 
 As an OME Registered Project, the **OME-owned implementations** of the **NGFF Project** adhere to the OME Project's [Code of Conduct](../../../code-of-conduct/). Contributors and community members are expected to comply with OME's [third-party contribution and communication policy](https://ome-contributing.readthedocs.io/en/latest/third-party-policy.html).
 
 ---
 
-## **Current Implementations**
+## Current Implementations
 
 The **OME-owned implementations** currently focus on Python-based tools and libraries that support the **NGFF Specification**. These include:
 
@@ -114,13 +114,13 @@ Additional implementations in other programming languages or platforms may be ad
 
 ---
 
-## **Relationship to the NGFF Specification**
+## Relationship to the NGFF Specification
 
 The **OME-owned implementations** of the **NGFF Project** must align with the **NGFF Specification**, which is governed by the [NGFF Editorial Board](https://ngff--559.org.readthedocs.build/rfc/10/index.html). The **PSC** is responsible for ensuring that the implementations remain compatible with the **NGFF Specification**. However, the **OME-owned implementations** operate independently of the **Editorial Board** and do not coordinate with it for day-to-day operations or governance.
 
 ---
 
-## **License and Attribution**
+## License and Attribution
 
 This governance document is adapted from the original **Zarr governance document** and the [Meritocratic Governance Model](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel) by Ross Gardler and Gabriel Hanganu (licensed under a Creative Commons Attribution-ShareAlike 4.0 International License).
 
