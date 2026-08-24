@@ -49,7 +49,7 @@ The **Project Steering Committee (PSC)** serves as the governing body for the **
 - Resolves conflicts or issues related to the implementations.
 - Approves the addition of new repositories or projects.
 - Manages administrative actions (e.g., adding/removing members) at the **project level**.
-- Meets periodically to review the status of the **OME-owned implementations** as **reference implementations** and ensure progress toward supporting all features of the **NGFF Specification**.
+- Meets periodically to review the status of the **OME-owned implementations** as **complete implementations** and ensure progress toward supporting all features of the **NGFF Specification**.
 
 ### Authority
 - The **PSC** is self-governing, and its membership is not overseen by the OME Management Group (OMG).
