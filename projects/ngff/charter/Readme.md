@@ -16,7 +16,7 @@ This document outlines the governance structure for the **OME-owned implementati
 
 ## **Aspiration to Completeness**
 
-The **OME-owned implementations** aspire to serve as **reference implementations** of the **NGFF Specification**. This means that the implementations will work towards supporting every feature laid out by the **core NGFF Specification document**. The **Maintainers** and members of the **Project Steering Committee (PSC)** will meet periodically to review progress, ensure alignment with the **NGFF Specification**, and address any gaps or challenges in achieving this goal.
+The **OME-owned implementations** aspire to support every feature laid out by the **core NGFF Specification document**. The **Maintainers** and members of the **Project Steering Committee (PSC)** will meet periodically to review progress, ensure alignment with the **NGFF Specification**, and address any gaps or challenges in achieving this goal.
 
 ---
 
