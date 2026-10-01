@@ -72,7 +72,7 @@ The **PSC** is currently defined as anyone with a `Maintainer` role in the **OME
 
 ## Relationship to NGFF and OME Governance
 
-The **OME-owned implementations** operate as part of the **NGFF Project**, an OME Registered Project (ORP). They align with the broader governance framework of the **NGFF Project** and the OME ecosystem.
+The **OME-owned implementations** operate as part of the **NGFF Project**, an [OME Registered Project (ORP)](../../README.md). They align with the broader governance framework of the **NGFF Project** and the OME ecosystem.
 
 - The implementations contribute to and are supported by the **NGFF Project** and OME ecosystem.
 - Coordination with the **NGFF PSC** and OME Management Group (OMG) occurs as needed.
