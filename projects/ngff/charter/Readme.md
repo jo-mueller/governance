@@ -94,7 +94,7 @@ Discussions primarily occur in the following venues, with a preference for publi
 1. **Publicly**: In GitHub pull requests, issues, and discussions.
 2. **Semi-Publicly**: In OME project-wide meetings, which are [publicly minuted](https://ome-contributing.readthedocs.io/en/latest/team-communication.html#meetings).
 3. **Semi-Privately**: In dedicated **NGFF Project** meetings, with minutes accessible to members of the OME Project.
-4. **Privately**: Via Slack or ad hoc meetings, as needed. Summaries of private discussions must be shared publicly.
+4. **Privately**: Via the chat platforms or ad hoc meetings, as needed. Summaries of private discussions must be shared publicly.
 
 ### Lazy Consensus for Day-to-Day Operations
 
