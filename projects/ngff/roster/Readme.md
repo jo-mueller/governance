@@ -73,7 +73,7 @@ The following table summarizes the current roster of contributors and maintainer
 |:-----|:-------------------|
 | Admin | [Jean-Marie Burel](https://github.com/jburel), [Josh Moore](https://github.com/joshmoore) |
 | Maintainer | [Will Moore](https://github.com/will-moore), [Johannes Soltwedel](https://github.com/jo-mueller), [Kevin Yamauchi](https://github.com/kevinyamauchi) |
-| Contributor (Core Dev) | [Wouter-Michiel Vierdag](https://github.com/melonora), [Juan Nunez-Iglesias](https://github.com/jni), [Draga Doncila Pop](https://github.com/dragadoncila), [Joel Lüthi](https://github.com/jluethi) |
+| Contributor (Core Dev) | [Wouter-Michiel Vierdag](https://github.com/melonora), [Juan Nunez-Iglesias](https://github.com/jni), [Draga Doncila Pop](https://github.com/dragadoncila) |
 
 
 The following table summarizes the repositories currently governed by this charter,
