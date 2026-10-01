@@ -104,17 +104,7 @@ To ensure continued progress:
 
 ---
 
-## 5. Relationship to NGFF and OME Governance
-
-The **OME-owned implementations** operate as part of the **NGFF Project**, an OME Registered Project (ORP). They align with the broader governance framework of the **NGFF Project** and the OME ecosystem.
-
-- The implementations contribute to and are supported by the **NGFF Project** and OME ecosystem.
-- Coordination with the **NGFF PSC** and OME Management Group (OMG) occurs as needed.
-- The implementations follow shared principles for openness, contribution, and sustainability.
-
----
-
-## 6. Expansion of Governed Repositories
+## 5. Expansion of Governed Repositories
 As the NGFF Project grows, additional repositories or projects may be brought under the governance of this charter. When new projects are added:
 
 - Existing Maintainers: The maintainers of the newly governed project repositories retain their Maintainer or Admin roles, ensuring continuity and expertise in the project's development.
@@ -123,7 +113,7 @@ As the NGFF Project grows, additional repositories or projects may be brought un
 
 This approach ensures that new projects integrate smoothly into the OME-owned implementations while preserving their existing momentum and expertise.
 
-## 7. Maintenance of This Document
+## 6. Maintenance of This Document
 
 This roster is maintained by the project Maintainers and updated as needed to reflect:
 - Changes in participation.
