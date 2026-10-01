@@ -126,7 +126,8 @@ The subgroup focuses on Python-based tools and libraries that support the **NGFF
 - [ome-zarr-models-py](https://github.com/ome-zarr-models/ome-zarr-models-py/)
 - [napari-ome-zarr](https://github.com/ome/napari-ome-zarr/)
 
-Additional implementations in other programming languages or platforms may be added in the future, subject to approval by the **PSC**.
+Additional implementations in other programming languages or platforms may be added in the future,
+subject to approval by the **PSC**.
 
 ---
 
