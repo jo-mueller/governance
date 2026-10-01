@@ -78,6 +78,8 @@ The **OME-owned implementations** operate as part of the **NGFF Project**, an [O
 - Coordination with the **NGFF PSC** and OME Management Group (OMG) occurs as needed.
 - The implementations follow shared principles for openness, contribution, and sustainability.
 
+The OME management group (OMG) provides oversight and strategic direction for the **OME-owned implementations** and the broader **NGFF Project**.
+The OMG may provide additional steering by vetoing or reverse assignments to the **PSC** or project decisions as deemed necessary.
 
 ---
 
