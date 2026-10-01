@@ -104,17 +104,7 @@ To ensure continued progress:
 
 ---
 
-## 5. Decision-Making
-
-Decisions within the **OME-owned implementations** are made through:
-- Open discussion and consensus where possible.
-- Voting or escalation when necessary, following **NGFF Project** and OME governance practices.
-
-Maintainers are responsible for ensuring that decisions are made in a timely and transparent manner.
-
----
-
-## 6. Relationship to NGFF and OME Governance
+## 5. Relationship to NGFF and OME Governance
 
 The **OME-owned implementations** operate as part of the **NGFF Project**, an OME Registered Project (ORP). They align with the broader governance framework of the **NGFF Project** and the OME ecosystem.
 
@@ -124,7 +114,7 @@ The **OME-owned implementations** operate as part of the **NGFF Project**, an OM
 
 ---
 
-## 7. Expansion of Governed Repositories
+## 6. Expansion of Governed Repositories
 As the NGFF Project grows, additional repositories or projects may be brought under the governance of this charter. When new projects are added:
 
 - Existing Maintainers: The maintainers of the newly governed project repositories retain their Maintainer or Admin roles, ensuring continuity and expertise in the project's development.
@@ -133,7 +123,7 @@ As the NGFF Project grows, additional repositories or projects may be brought un
 
 This approach ensures that new projects integrate smoothly into the OME-owned implementations while preserving their existing momentum and expertise.
 
-## 8. Maintenance of This Document
+## 7. Maintenance of This Document
 
 This roster is maintained by the project Maintainers and updated as needed to reflect:
 - Changes in participation.
